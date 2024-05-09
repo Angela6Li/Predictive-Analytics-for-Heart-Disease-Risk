@@ -3,6 +3,9 @@
 ## Members
 Ruihan Dou (rd593), Anqi Li (al2555)
 
+## Project Presentation Video Link
+https://youtu.be/gwCVIC1l_7c
+
 ## Project Description
 Background: In 2023, heart disease ranked as the leading cause of death in the United States, according to CDC. The suddenness of heart disease and the potential for rapid death without timely treatment underscore the importance of early risk assessment. The CDC has identified several major contributors to heart disease, including high blood pressure, smoking, diabetes, alcohol drinking, high BMI, and various other factors. This project aims to quantify the impact of these factors on an individual's susceptibility to heart disease. Python will be utilized throughout the project for model development and data visualization.
 
